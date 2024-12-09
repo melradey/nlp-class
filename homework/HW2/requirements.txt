@@ -6,4 +6,4 @@ textdistance
 textdistance[extras]
 numpy
 beautifulsoup4
-sklearn
+scikit-learn
